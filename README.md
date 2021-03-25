@@ -1,2 +1,2 @@
-# board-game-manager
+# Board Game Manager
 Manage your board game collection
